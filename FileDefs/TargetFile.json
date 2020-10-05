@@ -1,0 +1,12 @@
+{
+  "Name": "TargetFile",
+  "Path": "C:\\Users\\sambhav.jain\\Desktop\\Target",
+  "FileFormat": "Delimited",
+  "Delimiter": ",",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "csv",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}

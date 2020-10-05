@@ -1,0 +1,73 @@
+{
+  "ProjectId": 2,
+  "ProjectName": "NewPracticeProject",
+  "JobName": "JobAdded",
+  "Logging": 0,
+  "LogBatchSize": 5,
+  "CancelJobFlag": false,
+  "LoggingType": null,
+  "Tasks": [
+    {
+      "JobName": "JobAdded",
+      "TaskContent": "temptableproc",
+      "TaskName": "ExecuteStoredProcedure",
+      "ProjectId": 2,
+      "ProjectName": null,
+      "TaskTypeName": "Stored Procedure",
+      "Logging": 1,
+      "LastEndPoint": null,
+      "PendingEndPoint": null,
+      "ParameterNames": "BusinessEntityID",
+      "ParameterDefaults": "2",
+      "SourceSchema": "dbo",
+      "TargetSchema": null,
+      "SourceConnectionName": "Datawarehouse",
+      "TargetConnectionName": null,
+      "SourceFileName": null,
+      "TargetFileName": null,
+      "SourceClusterName": null,
+      "TargetClusterName": null,
+      "SourceFileId": null,
+      "TargetFileId": null,
+      "MaxThreads": 4,
+      "ParallelDm": true,
+      "PythonEnvironmentName": null,
+      "RunWithAgentId": 1,
+      "Agent": {
+        "AgentId": 1,
+        "AgentName": "BIZDATA-8T24Q13.bizdata.local",
+        "HostName": "BIZDATA-8T24Q13.bizdata.local",
+        "DateCreated": "0001-01-01T00:00:00",
+        "DateUpdated": "0001-01-01T00:00:00",
+        "HeartBeat": "0001-01-01T00:00:00",
+        "Version": null,
+        "TaskQueues": null,
+        "ConnectionId": null,
+        "IsHealthy": false
+      },
+      "PythonEnvironment": null,
+      "SourceConnection": null,
+      "TargetConnection": null,
+      "SourceCluster": null,
+      "TargetCluster": null,
+      "LoggingType": null,
+      "TaskType": null,
+      "TaskTable": [],
+      "TaskConnections": []
+    }
+  ],
+  "JobSequences": [
+    {
+      "JobName": "JobAdded",
+      "RunSequence": 1,
+      "ParallelSequence": 0,
+      "ParameterValues": null,
+      "ConnectionId": null,
+      "Active": true,
+      "TaskName": "ExecuteStoredProcedure",
+      "Connection": null
+    }
+  ],
+  "JobSequenceDependencies": [],
+  "JobDependencies": []
+}
