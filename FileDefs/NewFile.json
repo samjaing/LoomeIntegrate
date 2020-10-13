@@ -1,0 +1,12 @@
+{
+  "Name": "NewFile",
+  "Path": "C:\\Users\\sambhav.jain\\Desktop\\loomeIntegrate\\Target",
+  "FileFormat": "Delimited",
+  "Delimiter": ",",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "csv",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}
