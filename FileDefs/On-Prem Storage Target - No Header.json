@@ -1,0 +1,12 @@
+{
+  "Name": "On-Prem Storage Target - No Header",
+  "Path": "\\\\PERPRD-WEB01\\IntegrateTesting\\Target",
+  "FileFormat": "Delimited",
+  "Delimiter": ",",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "csv",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}

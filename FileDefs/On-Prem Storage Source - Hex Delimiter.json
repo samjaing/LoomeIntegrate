@@ -1,0 +1,12 @@
+{
+  "Name": "On-Prem Storage Source - Hex Delimiter",
+  "Path": "\\\\PERPRD-WEB01\\IntegrateTesting\\Source",
+  "FileFormat": "HexDelimited",
+  "Delimiter": "0x23",
+  "Header": true,
+  "Encoding": "UTF-8",
+  "Extension": "txt",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}
