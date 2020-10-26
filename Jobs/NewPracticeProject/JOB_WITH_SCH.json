@@ -1,0 +1,13 @@
+{
+  "ProjectId": 2,
+  "ProjectName": "NewPracticeProject",
+  "JobName": "JOB_WITH_SCH",
+  "Logging": 0,
+  "LogBatchSize": 5,
+  "CancelJobFlag": false,
+  "LoggingType": null,
+  "Tasks": [],
+  "JobSequences": [],
+  "JobSequenceDependencies": [],
+  "JobDependencies": []
+}
