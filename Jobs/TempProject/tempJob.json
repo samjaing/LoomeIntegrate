@@ -1,0 +1,73 @@
+{
+  "ProjectId": 11,
+  "ProjectName": "TempProject",
+  "JobName": "tempJob",
+  "Logging": 0,
+  "LogBatchSize": 5,
+  "CancelJobFlag": false,
+  "LoggingType": null,
+  "Tasks": [
+    {
+      "JobName": "tempJob",
+      "TaskContent": "{\"rulesetName\":\"Overdue Timesheets Adam\"}",
+      "TaskName": "tempTask",
+      "ProjectId": 11,
+      "ProjectName": null,
+      "TaskTypeName": "Loome Monitor Rule ",
+      "Logging": 1,
+      "LastEndPoint": null,
+      "PendingEndPoint": null,
+      "ParameterNames": "",
+      "ParameterDefaults": "",
+      "SourceSchema": "Adam's Testing",
+      "TargetSchema": null,
+      "SourceConnectionName": "Loome Monitor Dev",
+      "TargetConnectionName": null,
+      "SourceFileName": null,
+      "TargetFileName": null,
+      "SourceClusterName": null,
+      "TargetClusterName": null,
+      "SourceFileId": null,
+      "TargetFileId": null,
+      "MaxThreads": 4,
+      "ParallelDm": true,
+      "PythonEnvironmentName": null,
+      "RunWithAgentId": 2,
+      "Agent": {
+        "AgentId": 2,
+        "AgentName": "PerPrd-WEB01.bizdata.local",
+        "HostName": "PerPrd-WEB01.bizdata.local",
+        "DateCreated": "0001-01-01T00:00:00",
+        "DateUpdated": "0001-01-01T00:00:00",
+        "HeartBeat": "0001-01-01T00:00:00",
+        "Version": null,
+        "TaskQueues": null,
+        "ConnectionId": null,
+        "IsHealthy": false
+      },
+      "PythonEnvironment": null,
+      "SourceConnection": null,
+      "TargetConnection": null,
+      "SourceCluster": null,
+      "TargetCluster": null,
+      "LoggingType": null,
+      "TaskType": null,
+      "TaskTable": [],
+      "TaskConnections": []
+    }
+  ],
+  "JobSequences": [
+    {
+      "JobName": "tempJob",
+      "RunSequence": 1,
+      "ParallelSequence": 0,
+      "ParameterValues": null,
+      "ConnectionId": null,
+      "Active": true,
+      "TaskName": "tempTask",
+      "Connection": null
+    }
+  ],
+  "JobSequenceDependencies": [],
+  "JobDependencies": []
+}

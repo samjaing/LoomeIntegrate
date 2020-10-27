@@ -1,0 +1,12 @@
+{
+  "Name": "OS Commands Repo",
+  "Path": "/Script Execution/OS Command Scripts",
+  "FileFormat": "Script",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "bat",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Script Directory"
+}

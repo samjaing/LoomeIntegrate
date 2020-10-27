@@ -1,0 +1,12 @@
+{
+  "Name": "Windows PowerShell Scripts Repo",
+  "Path": "/Script Execution/Windows PowerShell Scripts",
+  "FileFormat": "Script",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "ps1",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Script Directory"
+}

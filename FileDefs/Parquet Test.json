@@ -1,0 +1,12 @@
+{
+  "Name": "Parquet Test",
+  "Path": "\\\\PERPRD-WEB01\\IntegrateTesting\\Source",
+  "FileFormat": "Parquet",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "parquet",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "PowerShell Core Scripts Repo",
+  "Path": "/Script Execution/PowerShell Core Scripts",
+  "FileFormat": "Script",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "ps1",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Script Directory"
+}

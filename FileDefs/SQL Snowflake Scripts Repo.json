@@ -1,0 +1,12 @@
+{
+  "Name": "SQL Snowflake Scripts Repo",
+  "Path": "/Script Execution/SQL Scripts/For Snowflake",
+  "FileFormat": "Script",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "sql",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Script Directory"
+}
