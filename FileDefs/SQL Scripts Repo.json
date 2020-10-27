@@ -1,0 +1,12 @@
+{
+  "Name": "SQL Scripts Repo",
+  "Path": "/Script Execution/SQL Scripts",
+  "FileFormat": "Script",
+  "Delimiter": "",
+  "Header": false,
+  "Encoding": "UTF-8",
+  "Extension": "sql",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Script Directory"
+}

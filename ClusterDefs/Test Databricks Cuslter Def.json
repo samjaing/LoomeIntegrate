@@ -1,0 +1,10 @@
+{
+  "Name": "Test Databricks Cuslter Def",
+  "Version": "4.1.x-scala2.11",
+  "Tier": "Standard_DS3_v2",
+  "MinWorkers": 1,
+  "MaxWorkers": null,
+  "EnvNames": "",
+  "EnvValues": "",
+  "ClusterDefType": "Databricks Cluster (Azure)"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Azure Blob Storage - HVAC",
+  "Path": "lab2016hdp/HdiSamples/MahoutMovieData",
+  "FileFormat": "Delimited",
+  "Delimiter": ",",
+  "Header": true,
+  "Encoding": "UTF-8",
+  "Extension": "txt",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "Cloud Blob folder"
+}
