@@ -1,0 +1,12 @@
+{
+  "Name": "On-Prem Storage Target - Multi Delimiter",
+  "Path": "\\\\PERPRD-WEB01\\IntegrateTesting\\Target",
+  "FileFormat": "Delimited",
+  "Delimiter": "///",
+  "Header": true,
+  "Encoding": "UTF-8",
+  "Extension": "txt",
+  "Validated": false,
+  "FilePattern": null,
+  "FileDefType": "File System"
+}

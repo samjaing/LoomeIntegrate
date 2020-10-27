@@ -1,0 +1,10 @@
+{
+  "Name": "Test Azure Batch Cluster Def",
+  "Version": "MicrosoftWindowsServer | WindowsServer | 2016-DataCenter",
+  "Tier": "Standard_G1",
+  "MinWorkers": 1,
+  "MaxWorkers": null,
+  "EnvNames": "",
+  "EnvValues": "",
+  "ClusterDefType": "Azure Batch Pool"
+}

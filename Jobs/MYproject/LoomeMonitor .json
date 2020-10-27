@@ -1,0 +1,73 @@
+{
+  "ProjectId": 11,
+  "ProjectName": "MYproject",
+  "JobName": "LoomeMonitor ",
+  "Logging": 0,
+  "LogBatchSize": 5,
+  "CancelJobFlag": false,
+  "LoggingType": null,
+  "Tasks": [
+    {
+      "JobName": "LoomeMonitor ",
+      "TaskContent": "",
+      "TaskName": "ssdfd",
+      "ProjectId": 11,
+      "ProjectName": null,
+      "TaskTypeName": "Loome Monitor Rule",
+      "Logging": 1,
+      "LastEndPoint": null,
+      "PendingEndPoint": null,
+      "ParameterNames": "FlatFileDetectDataTypeMaxRow",
+      "ParameterDefaults": "250",
+      "SourceSchema": null,
+      "TargetSchema": null,
+      "SourceConnectionName": "Loome Monitor Dev",
+      "TargetConnectionName": null,
+      "SourceFileName": null,
+      "TargetFileName": null,
+      "SourceClusterName": null,
+      "TargetClusterName": null,
+      "SourceFileId": null,
+      "TargetFileId": null,
+      "MaxThreads": 4,
+      "ParallelDm": true,
+      "PythonEnvironmentName": null,
+      "RunWithAgentId": 5,
+      "Agent": {
+        "AgentId": 5,
+        "AgentName": "BIZDATA-8T24Q13.bizdata.local",
+        "HostName": "BIZDATA-8T24Q13.bizdata.local",
+        "DateCreated": "0001-01-01T00:00:00",
+        "DateUpdated": "0001-01-01T00:00:00",
+        "HeartBeat": "0001-01-01T00:00:00",
+        "Version": null,
+        "TaskQueues": null,
+        "ConnectionId": null,
+        "IsHealthy": false
+      },
+      "PythonEnvironment": null,
+      "SourceConnection": null,
+      "TargetConnection": null,
+      "SourceCluster": null,
+      "TargetCluster": null,
+      "LoggingType": null,
+      "TaskType": null,
+      "TaskTable": [],
+      "TaskConnections": []
+    }
+  ],
+  "JobSequences": [
+    {
+      "JobName": "LoomeMonitor ",
+      "RunSequence": 1,
+      "ParallelSequence": 0,
+      "ParameterValues": null,
+      "ConnectionId": null,
+      "Active": true,
+      "TaskName": "ssdfd",
+      "Connection": null
+    }
+  ],
+  "JobSequenceDependencies": [],
+  "JobDependencies": []
+}
