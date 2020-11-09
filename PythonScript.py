@@ -1,0 +1,6 @@
+f = open("C:\Users\sambhav.jain\Desktop\Script\pythonGit.txt", "a")
+f.write("Sambhav")
+f.write(name)
+f.write(place)
+f.write(number)
+f.close()
